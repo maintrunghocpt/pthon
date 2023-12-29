@@ -1,2 +1,2 @@
-# pthon
+# python
 using python
